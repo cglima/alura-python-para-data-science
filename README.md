@@ -1,4 +1,4 @@
-# Python para Data Science: primeiros passos
+# Python para Data Science
 
 Neste curso, vamos:
 
